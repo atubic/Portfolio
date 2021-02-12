@@ -18,7 +18,7 @@ export default function Scoreboard() {
       <div className={sectionStyles.s2}>
         <div className={sectionStyles.mainContainer}>
           <br />
-          <img src={scoreboardImg} />
+          <img className={sectionStyles.exampleImg} src={scoreboardImg} />
           <h3>Scoreboard App</h3>
           <p>
             This was a project I started back in October 2020 when I first learned React.

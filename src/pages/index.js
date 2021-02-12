@@ -4,12 +4,12 @@ import ContactForm from '../components/ContactForm';
 import { Link } from "gatsby";
 import sectionStyles from '../components/section.module.css';
 
-import profileImg from '../../public/profile-pic.jpg';
+import profileImg from '../../public/grad-pic.jpg';
 import socialImg from '../../public/follow.png';
 import scoreboardImg from '../../public/scoreboard.png';
 import storiesImg from '../../public/storybooks-login.png';
 import chefhackImg from '../../public/chefhack.png';
-import resume from '../../public/Aleksa_Tubic_Resume.pdf';
+import resume from '../../public/Aleksa_Tubic_Resume_v2.pdf';
 
 export default function Home() {
 
