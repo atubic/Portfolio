@@ -9,7 +9,7 @@ import socialImg from '../../public/follow.png';
 import scoreboardImg from '../../public/scoreboard.png';
 import storiesImg from '../../public/storybooks-login.png';
 import chefhackImg from '../../public/chefhack.png';
-import resume from '../../public/Aleksa_Tubic_Resume_v2.pdf';
+import resume from '../../public/Aleksa_Tubic_Resume_v2.1.pdf';
 
 export default function Home() {
 
@@ -110,6 +110,7 @@ export default function Home() {
               <h4>More about me</h4>
               <p>I build new projects to improve my skillset and learn how to use new technologies.</p>
               <p>While I keep busy with my projects, I apply to jobs in search of a company where I can make an impact.</p>
+              <p>My interests inculude: software development, software engineering, web development, and data science.</p>
               <hr />
               <h4>TOP EXPERTISE</h4>
               <p>
