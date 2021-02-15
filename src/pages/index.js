@@ -69,9 +69,8 @@ export default function Home() {
               <div id={sectionStyles.dot3} className={sectionStyles.browserDot}></div>
             </div>
             <ul id={sectionStyles.navigation}>
-              <li>
-                <a href='#contact'>Contact</a>
-              </li>
+              <li><a href='#contact'>Contact</a></li>
+              <li><a target='_blank' href={resume}>Resume</a></li>
             </ul>
           </div>
           <div className={sectionStyles.leftColumn}>
